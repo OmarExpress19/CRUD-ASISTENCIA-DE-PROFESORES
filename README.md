@@ -3,8 +3,9 @@
 Un CRUD que sirve para llevar a cabo una administracion de la asistencia de los profesores en las aulas.
 Este registra los profesores que tendran acceso a la web, se pueden registrar las materias, aulas, departamentos(academias) y el horario de cada profesor.
 Al profesor le aparecera las materias que le corresponden en el dia, esta tambien incluye las horas de cada clase, la asistencia la tendra que confirmar el profesor una vez que este impartiendo la clase en la misma web.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
+## Vista de la WEB
+![Login](https://github.com/OmarExpress19/CRUD-ASISTENCIA-DE-PROFESORES/assets/79942504/2da9317c-1cee-4b84-a845-b8c48136d968.png)
+![Usuario](https://github.com/OmarExpress19/CRUD-ASISTENCIA-DE-PROFESORES/assets/79942504/45104624-3fb1-44b7-a041-018c9dbc7c6d)
+![Laboratorio](https://github.com/OmarExpress19/CRUD-ASISTENCIA-DE-PROFESORES/assets/79942504/78f70615-55ee-4a43-b20e-930fb921519f)
+![Jefe](https://github.com/OmarExpress19/CRUD-ASISTENCIA-DE-PROFESORES/assets/79942504/4626e4a0-f20c-45ab-a6e5-85908f64f5d2)
